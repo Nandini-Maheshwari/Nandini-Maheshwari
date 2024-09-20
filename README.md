@@ -1,11 +1,11 @@
 <div align="center">
 
-Hey👋🏻  
+<h4>Hey👋🏻</h4>  
 Welcome to my GitHub!🚀  
 I'm Nandini, a problem-solver at heart💟, MERN stack developer by trade🕶️.
 
-[Portfolio](https://nandinim.vercel.app/)  
-<img src="https://octodex.github.com/images/octonaut.jpg" alt="Sticker" width="150" height="150"/>
+<a href="https://nandinim.vercel.app/" target="_blank">Portfolio</a>
+<img src="https://octodex.github.com/images/octonaut.jpg" alt="Sticker" width="200" height="200"/>
 
 Check out my repos 🔽
 
