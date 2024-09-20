@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
+<div align="center">
 
 Hey👋🏻  
 Welcome to my GitHub!🚀  
